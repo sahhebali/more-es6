@@ -21,7 +21,7 @@ for (const number of numbers) {
 // const output = numbers.map(dubbleNew);
 // const output = numbers.map(number => number * 2);
 const output = numbers.map(x => x * 2);
-
+console.log(output);
 // console.log(output);
 const squares = numbers.map(x => x * x);
-console.log(squares);
+// console.log(squares);
